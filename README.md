@@ -1,11 +1,5 @@
 <p align="center">
   <img align="center"
-  src="https://github-readme-stats-morganwall.vercel.app/api?username=morganwall&show_icons=true&theme=radical&locale=en&ver=2"
-  alt="morganwall"/>
-</p>
-
-<p align="center">
-  <img align="center"
   src="https://github-readme-streak-stats.herokuapp.com/?user=morganwall&theme=radical"
   alt="morganwall"/>
 </p>
